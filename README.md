@@ -1,4 +1,5 @@
 # first/third player view *demo* made in godot 3.1
+License: code: LGPL-2.1, media: CC0
 
 |Action|Controls|
 |-|-|
